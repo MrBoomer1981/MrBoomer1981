@@ -1,7 +1,9 @@
-<h1 align="center">🧪 train.py — Mr.Boomer1981</h1>
+<p align="center">
+  <img src="assets/banner.png" alt="Mr.Boomer1981 — NEVER STOP GRAFFITI" width="100%" />
+</p>
 
 <p align="center">
-  <i>ML engineer in training · currently: math → next: agentic systems · building weird and creative things along the way</i>
+  <i>AI researcher · currently: math → next: agentic systems · building weird and creative things along the way</i>
 </p>
 
 ```text
@@ -19,10 +21,10 @@ Epoch 3/inf  ░░░░░░░░░░░░░░░░░░░░  Agent
 ## 📦 Dataset
 *What I'm feeding myself right now.*
 
-- **Studying now:** math for ML — `<course / book>`
+- **Studying now:** math for ML — linear algebra, calculus, probability
+- **Building now:** [DEEper](https://github.com/MrBoomer1981/DEEper) — a deep research engine that writes long cited reports
 - **Up next:** agentic systems — tool use, planning, memory, evaluation
 - **Always running:** creative side projects, because that's where I learn the most
-- **Reading:** `<paper or book>`
 
 ## 🏗️ Architecture
 *My stack.*
@@ -32,19 +34,23 @@ Epoch 3/inf  ░░░░░░░░░░░░░░░░░░░░  Agent
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?logo=telegram&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 <!-- Add only what you actually use: NumPy, PyTorch, pandas, scikit-learn, Jupyter, ... -->
 
 ## 🧾 Checkpoints
 *Saved models, a.k.a. my projects.*
 
-| Checkpoint | What it does | Key ideas | Built with |
-|---|---|---|---|
-| [Bot_for_Roglike](https://github.com/MrBoomer1981/Bot_for_Roglike) | A bot that plays **Balatro** without a human. Computes instead of guessing: an exact scoring simulator plus a brute-force solver over all 218 hand subsets (~20 ms). Two modes: advisor and autopilot. | Event-pipeline design, exact enumeration instead of sampling, ~1,100 tests + strict `mypy`, honest measurement (1 win in 16 runs, mean ante 4.2) | 🤖 LLM-assisted |
-| [DEEper](https://github.com/MrBoomer1981/DEEper) | A deep-research bot: web search, scraping and a local knowledge base (SQLite FTS5) for in-depth answers. | Search → scrape → store → synthesize pipeline, keeping modules decoupled | 🤖 LLM-assisted |
-| [RaYa-Assist](https://github.com/MrBoomer1981/RaYa-Assist) | A personal multi-agent assistant in Telegram: router + specialist agents (todo, calendar, diary, ideas…), layered memory, a critic agent, proactive scheduler. Early prototype, no longer in use. | Agent orchestration, memory design, CI and deployment | 🤖 LLM-assisted |
+<p align="center">
+  <a href="https://github.com/MrBoomer1981/DEEper"><img src="assets/projects/deeper.png" alt="DEEper — deep research engine" width="49%" /></a>
+  <a href="https://github.com/MrBoomer1981/Bot_for_Roglike"><img src="assets/projects/balatro-bot.png" alt="Bot_for_Roglike — Balatro autopilot" width="49%" /></a>
+  <a href="https://github.com/MrBoomer1981/RaYa-Assist"><img src="assets/projects/raya-assist.png" alt="RaYa-Assist — multi-agent assistant" width="49%" /></a>
+  <a href="#-next-experiments"><img src="assets/projects/next-agent.png" alt="minimal-agent — next experiment" width="49%" /></a>
+</p>
 
-> 🤖 = written with LLM help. I go through each one until I can explain every line.
+> **LLM-assisted** = written with LLM help. I go through each one until I can explain every line.
 
 ## 📊 Eval metrics
 *Honest numbers.*
@@ -70,18 +76,16 @@ dropout: 0.0           # never skip a study session
 - [ ] Write short notes on each math topic I finish, in my own words
 - [ ] Rebuild a minimal agent from scratch: loop, tools, memory, no frameworks
 - [ ] Compare it with RaYa's orchestrator and write up the differences
-- [ ] `<your next creative project>`
 
 ## 📡 Inference
 *How to reach me.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/byaven)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tretyakovgleb63@gmail.com)
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrBoomer1981&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrBoomer1981&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=MrBoomer1981&hide_border=true" height="150" />
 </p>
