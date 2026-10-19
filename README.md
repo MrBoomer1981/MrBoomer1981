@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mr.Boomer1981 — NEVER STOP GRAFFITI" width="100%" />
+  <img src="assets/banner-david.png" alt="Mr.Boomer1981 — AI researcher · Never STOP Create" width="100%" />
 </p>
 
 <p align="center">
